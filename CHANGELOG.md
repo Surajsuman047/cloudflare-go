@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.0.1 (2025-01-10)
+
+Full Changelog: [v4.0.0...v4.0.1](https://github.com/cloudflare/cloudflare-go/compare/v4.0.0...v4.0.1)
+
+### Chores
+
+* **internal:** version bump ([#3819](https://github.com/cloudflare/cloudflare-go/issues/3819)) ([c99f848](https://github.com/cloudflare/cloudflare-go/commit/c99f848745efe7fb4f865dae0ffb3a462146c72a))
+
 ## 4.0.0 (2025-01-10)
 
 Full Changelog: [v3.1.0...v4.0.0](https://github.com/cloudflare/cloudflare-go/compare/v3.1.0...v4.0.0)
